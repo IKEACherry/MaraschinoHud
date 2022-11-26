@@ -13,7 +13,7 @@
 		"tall"			"60"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../hud/ammo_bg"
+		"image"			"replay/thumbnails/panels/ammo_bg"
 		"scaleImage"	"1"			
 	}
 	"HudWeaponLowAmmoImage"
@@ -29,7 +29,7 @@
 		"tall"			"10"
 		"visible"		"0"
 		"enabled"		"1"
-		"image"			"../hud/low_ammo"
+		"image"			"replay/thumbnails/panels/low_ammo"
 		"scaleImage"	"1"	
 	}
 	"AmmoInClip"

@@ -211,7 +211,7 @@
 	{
 		// "ControlName"		"ImagePanel"
 		// "FieldName"			"Background"
-		// "image"				"../hud/BGFrame"
+		// "image"				"replay/thumbnails/panels/BGFrame"
 		// "scaleimage"			"1"
 		"ControlName"		"ImagePanel"
 		"fieldName"			"BGFrame"
@@ -221,7 +221,7 @@
 		"wide"				"405"
 		"tall"				"28"
 		"visible"			"0"
-		"image"				"../hud/BGFrame"
+		"image"				"replay/thumbnails/panels/BGFrame"
 		"scaleimage"		"1"
 
 		if_match

@@ -61,7 +61,7 @@
 		"backgroundtype"		"2"
 		"proportionaltoparent"	"1"
 			
-		"image"					"../hud/comp_round_timer"
+		"image"					"replay/thumbnails/panels/comp_round_timer"
 		"scaleimage"			"1"
 	}
 }

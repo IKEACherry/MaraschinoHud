@@ -46,7 +46,7 @@
 		"tall"			"80"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../hud/health_bg"
+		"image"			"replay/thumbnails/panels/health_bg"
 		"scaleImage"	"1"	
 	}	
 	"PlayerStatusHealthBonusImage"
@@ -68,7 +68,7 @@
 		"tall"			"35"	[$X360]
 		"visible"		"0"
 		"enabled"		"1"
-		"image"			"../hud/health_over_bg"
+		"image"			"replay/thumbnails/panels/health_over_bg"
 		"scaleImage"	"1"	
 	}
 	"PlayerStatusHealthValue"

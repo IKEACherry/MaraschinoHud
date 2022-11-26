@@ -29,10 +29,10 @@
 		"visible"		"1"
 		"visible_minmode"	"0"
 		"enabled"		"1"
-		"image"			"../hud/misc_ammo_area_blue"
+		"image"			"replay/thumbnails/panels/misc_ammo_area_blue"
 		"scaleImage"	"1"	
-		"teambg_2"		"../hud/misc_ammo_area_red"
-		"teambg_3"		"../hud/misc_ammo_area_blue"	
+		"teambg_2"		"replay/thumbnails/panels/misc_ammo_area_red"
+		"teambg_3"		"replay/thumbnails/panels/misc_ammo_area_blue"	
 	}
 	
 	"ItemEffectMeterLabel"

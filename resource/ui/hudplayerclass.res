@@ -92,11 +92,11 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"
-		"image"			"../hud/misc_ammo_area_red"	
-		"teambg_2"		"../hud/misc_ammo_area_red"
-		"teambg_2_lodef"	"../hud/character_red_bg_lodef"
-		"teambg_3"		"../hud/misc_ammo_area_blue"
-		"teambg_3_lodef"	"../hud/character_blue_bg_lodef"
+		"image"			"replay/thumbnails/panels/misc_ammo_area_red"	
+		"teambg_2"		"replay/thumbnails/panels/misc_ammo_area_red"
+		"teambg_2_lodef"	"replay/thumbnails/panels/character_red_bg_lodef"
+		"teambg_3"		"replay/thumbnails/panels/misc_ammo_area_blue"
+		"teambg_3_lodef"	"replay/thumbnails/panels/character_blue_bg_lodef"
 	}
 
 	"classmodelpanelBG"
@@ -115,10 +115,10 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"
-		"image"				"../hud/misc_ammo_area_red"	
-		"teambg_2"			"../hud/misc_ammo_area_red"
+		"image"				"replay/thumbnails/panels/misc_ammo_area_red"	
+		"teambg_2"			"replay/thumbnails/panels/misc_ammo_area_red"
 		"teambg_2_lodef"	"../hud/character_red_bg_lodef_clipped"
-		"teambg_3"			"../hud/misc_ammo_area_blue"
+		"teambg_3"			"replay/thumbnails/panels/misc_ammo_area_blue"
 		"teambg_3_lodef"	"../hud/character_blue_bg_lodef_clipped"
 	}
 

@@ -162,7 +162,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		""
-		"image"			"../hud/cart_point_neutral"
+		"image"			"replay/thumbnails/panels/cart_point_neutral"
 		"scaleImage"	"1"	
 												
 		"if_multiple_trains"

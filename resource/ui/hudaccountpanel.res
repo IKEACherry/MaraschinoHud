@@ -22,12 +22,12 @@
 		"tall"			"42"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../hud/misc_ammo_area_blue"
+		"image"			"replay/thumbnails/panels/misc_ammo_area_blue"
 		"scaleImage"	"1"	
-		"teambg_2"		"../hud/misc_ammo_area_red"
-		"teambg_2_lodef"	"../hud/misc_ammo_area_red_lodef"
-		"teambg_3"		"../hud/misc_ammo_area_blue"
-		"teambg_3_lodef"	"../hud/misc_ammo_area_blue_lodef"
+		"teambg_2"		"replay/thumbnails/panels/misc_ammo_area_red"
+		"teambg_2_lodef"	"replay/thumbnails/panels/misc_ammo_area_red_lodef"
+		"teambg_3"		"replay/thumbnails/panels/misc_ammo_area_blue"
+		"teambg_3_lodef"	"replay/thumbnails/panels/misc_ammo_area_blue_lodef"
 	}
 	
 	"MetalIcon"	

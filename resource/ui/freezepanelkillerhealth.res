@@ -24,7 +24,7 @@
 		"tall"			"22"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../hud/health_bg"
+		"image"			"replay/thumbnails/panels/health_bg"
 		"scaleImage"	"1"	
 	}	
 	"BuildingStatusHealthImageBG"
@@ -52,7 +52,7 @@
 		"tall"			"22"
 		"visible"		"0"
 		"enabled"		"1"
-		"image"			"../hud/health_over_bg"
+		"image"			"replay/thumbnails/panels/health_over_bg"
 		"scaleImage"	"1"	
 	}
 	"PlayerStatusHealthValue"
