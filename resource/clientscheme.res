@@ -3238,6 +3238,36 @@ Scheme
 				"antialias"	"1"
 			}
 		}
+
+		"WTWP15"
+		{
+			"1"
+			{
+				"name"		"Wrong time, wrong place"
+				"tall"		"15"
+				"antialias"	"1"
+			}
+		}
+		
+		"WTWP20"
+		{
+			"1"
+			{
+				"name"		"Wrong time, wrong place"
+				"tall"		"20"
+				"antialias"	"1"
+			}
+		}
+
+		"WTWP24"
+		{
+			"1"
+			{
+				"name"		"Wrong time, wrong place"
+				"tall"		"24"
+				"antialias"	"1"
+			}
+		}
 	}
 
 	//
@@ -6063,6 +6093,11 @@ Scheme
 		{
 			"font" "resource/fonts/NexaText-Trial-Regular.ttf"
 			"name" "Nexa Text-Trial Regular"
+		}
+		"11"
+		{	
+			"font"	"resource/fonts/Wrong time, wrong place.ttf"
+			"name"	"Wrong time, wrong place"
 		}
 	}
 }

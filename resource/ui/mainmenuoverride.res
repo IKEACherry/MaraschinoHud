@@ -2921,4 +2921,5 @@
 			"angles_z"		"0"
 		}
 	}
+	#base "resource/extras/preload.res"
 }
